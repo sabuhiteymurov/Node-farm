@@ -1,6 +1,6 @@
 ## NodeFarm
 
-This is a simple project for understanding core nodeJS, I have used [Node.js](https://nodejs.org/) for [server-side rendering](https://www.heavy.ai/technical-glossary/server-side-rendering) and JSON for storing and reading data.
+This is a simple project for understanding core nodeJS, I have used [Node.js](https://nodejs.org/) for [server-side rendering](https://www.heavy.ai/technical-glossary/server-side-rendering) and JSON for storing, reading data.
 
 ### Getting started
 
