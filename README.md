@@ -12,7 +12,7 @@ npm i
 npm install
 ```
 
-Then start the node server on port 8000 using nodemon:
+Then start the node server on port `8000` using nodemon:
 
 ```
 nodemon index.ts
